@@ -26,14 +26,6 @@
 
 ---
 
-## 📎 Project Documents
-
-You can review the main project files here:
-
-- 🔗 https://lnkd.in/dm7UQNvK  
-- 🔗 https://lnkd.in/dGMknimY  
-
----
 
 ## 👤 About Me
 
