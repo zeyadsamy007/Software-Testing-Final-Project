@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="11" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-29T16:42:08 EET" name="Default Suite" finished-at="2025-11-29T16:45:30 EET" duration-ms="202411">
+    <groups>
+    </groups>
+    <test started-at="2025-11-29T16:42:08 EET" name="SwagLabs" finished-at="2025-11-29T16:45:30 EET" duration-ms="202411">
+      <class name="CartManagement">
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:08 EET" name="Open_browser" finished-at="2025-11-29T16:42:18 EET" duration-ms="10544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="Products_AddToCart()[pri:1, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:18 EET" name="Products_AddToCart" finished-at="2025-11-29T16:42:21 EET" duration-ms="2271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Products_AddToCart -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:21 EET" name="Close_browser" finished-at="2025-11-29T16:42:24 EET" duration-ms="3174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:24 EET" name="Open_browser" finished-at="2025-11-29T16:42:34 EET" duration-ms="10069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="Products_Remove()[pri:2, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:34 EET" name="Products_Remove" finished-at="2025-11-29T16:42:37 EET" duration-ms="2970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Products_Remove -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:37 EET" name="Close_browser" finished-at="2025-11-29T16:42:40 EET" duration-ms="3161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:40 EET" name="Open_browser" finished-at="2025-11-29T16:42:50 EET" duration-ms="9834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="ProductsDetails_AddToCart()[pri:3, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:50 EET" name="ProductsDetails_AddToCart" finished-at="2025-11-29T16:42:53 EET" duration-ms="3411" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsDetails_AddToCart -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:53 EET" name="Close_browser" finished-at="2025-11-29T16:42:56 EET" duration-ms="3182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:42:56 EET" name="Open_browser" finished-at="2025-11-29T16:43:07 EET" duration-ms="10388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="ProductsDetails_Remove()[pri:4, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:07 EET" name="ProductsDetails_Remove" finished-at="2025-11-29T16:43:12 EET" duration-ms="5627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsDetails_Remove -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:12 EET" name="Close_browser" finished-at="2025-11-29T16:43:16 EET" duration-ms="3308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:16 EET" name="Open_browser" finished-at="2025-11-29T16:43:26 EET" duration-ms="10339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="ProductsDetails_AddCartBtnState()[pri:5, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:26 EET" name="ProductsDetails_AddCartBtnState" finished-at="2025-11-29T16:43:31 EET" duration-ms="5352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsDetails_AddCartBtnState -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:31 EET" name="Close_browser" finished-at="2025-11-29T16:43:35 EET" duration-ms="3422" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:35 EET" name="Open_browser" finished-at="2025-11-29T16:43:45 EET" duration-ms="9772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="ProductsDetails_RemoveCartBtnState()[pri:6, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:45 EET" name="ProductsDetails_RemoveCartBtnState" finished-at="2025-11-29T16:43:50 EET" duration-ms="5358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsDetails_RemoveCartBtnState -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:50 EET" name="Close_browser" finished-at="2025-11-29T16:43:53 EET" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:43:53 EET" name="Open_browser" finished-at="2025-11-29T16:44:03 EET" duration-ms="10057" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CartIconCounter_updates()[pri:7, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:03 EET" name="CartIconCounter_updates" finished-at="2025-11-29T16:44:10 EET" duration-ms="7145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartIconCounter_updates -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:10 EET" name="Close_browser" finished-at="2025-11-29T16:44:14 EET" duration-ms="3243" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:14 EET" name="Open_browser" finished-at="2025-11-29T16:44:24 EET" duration-ms="10086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CheckoutBtn_EmptyCART()[pri:8, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:24 EET" name="CheckoutBtn_EmptyCART" finished-at="2025-11-29T16:44:25 EET" duration-ms="1470" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Checkout btn should be disabled expected [https://www.saucedemo.com/cart.html] but found [https://www.saucedemo.com/checkout-step-one.html]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Checkout btn should be disabled expected [https://www.saucedemo.com/cart.html] but found [https://www.saucedemo.com/checkout-step-one.html]
+at org.testng.Assert.fail(Assert.java:111)
+at org.testng.Assert.failNotEquals(Assert.java:1578)
+at org.testng.Assert.assertEqualsImpl(Assert.java:150)
+at org.testng.Assert.assertEquals(Assert.java:132)
+at org.testng.Assert.assertEquals(Assert.java:656)
+at CartManagement.CheckoutBtn_EmptyCART(CartManagement.java:228)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+at org.testng.TestRunner.privateRun(TestRunner.java:739)
+at org.testng.TestRunner.run(TestRunner.java:614)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutBtn_EmptyCART -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:25 EET" name="Close_browser" finished-at="2025-11-29T16:44:29 EET" duration-ms="3497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:29 EET" name="Open_browser" finished-at="2025-11-29T16:44:39 EET" duration-ms="10875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CartPage_NavigateProduct()[pri:9, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:39 EET" name="CartPage_NavigateProduct" finished-at="2025-11-29T16:44:43 EET" duration-ms="3585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartPage_NavigateProduct -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:43 EET" name="Close_browser" finished-at="2025-11-29T16:44:46 EET" duration-ms="3249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:46 EET" name="Open_browser" finished-at="2025-11-29T16:44:54 EET" duration-ms="7847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CartPage_Remove()[pri:10, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:54 EET" name="CartPage_Remove" finished-at="2025-11-29T16:44:59 EET" duration-ms="4843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartPage_Remove -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:44:59 EET" name="Close_browser" finished-at="2025-11-29T16:45:02 EET" duration-ms="3160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:02 EET" name="Open_browser" finished-at="2025-11-29T16:45:09 EET" duration-ms="7060" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CartPage_ContinueShoppingBtn()[pri:11, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:09 EET" name="CartPage_ContinueShoppingBtn" finished-at="2025-11-29T16:45:11 EET" duration-ms="1733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartPage_ContinueShoppingBtn -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:11 EET" name="Close_browser" finished-at="2025-11-29T16:45:14 EET" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+        <test-method is-config="true" signature="Open_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:14 EET" name="Open_browser" finished-at="2025-11-29T16:45:24 EET" duration-ms="10281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Open_browser -->
+        <test-method signature="CartPage_CheckoutBtn()[pri:12, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:24 EET" name="CartPage_CheckoutBtn" finished-at="2025-11-29T16:45:27 EET" duration-ms="2438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartPage_CheckoutBtn -->
+        <test-method is-config="true" signature="Close_browser()[pri:0, instance:CartManagement@481a996b]" started-at="2025-11-29T16:45:27 EET" name="Close_browser" finished-at="2025-11-29T16:45:30 EET" duration-ms="3249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_browser -->
+      </class> <!-- CartManagement -->
+    </test> <!-- SwagLabs -->
+  </suite> <!-- Default Suite -->
+</testng-results>
